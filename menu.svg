@@ -1,0 +1,11 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <a xlink:href="https://www.appsheet.com/start/118dd56e-e043-44b9-9746-0ca059991a46#view=Recepcion" target="_blank">
+    <rect x="20" y="20" width="150" height="80" fill="#4CAF50" rx="12" />
+    <text x="45" y="70" font-size="18" fill="#fff" font-family="Arial">Recepción</text>
+  </a>
+  
+  <a xlink:href="https://www.appsheet.com/start/118dd56e-e043-44b9-9746-0ca059991a46#view=Entrega" target="_blank">
+    <rect x="220" y="20" width="150" height="80" fill="#2196F3" rx="12" />
+    <text x="255" y="70" font-size="18" fill="#fff" font-family="Arial">Entrega</text>
+  </a>
+</svg>
